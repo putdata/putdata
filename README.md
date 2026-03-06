@@ -18,5 +18,5 @@
   <li>C언어 기초 스터디 멘토 (2019.03 - 2019.06)</li>
 </ul>
 
-## 🎈 BOJ TIER
+## 🎈 Problem Solving
 [![Solved.ac](http://mazassumnida.wtf/api/generate_badge?boj=putdata)](https://solved.ac/putdata)
