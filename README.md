@@ -71,12 +71,12 @@
   <tr>
     <td><b>SSAFY 13기</b></td>
     <td>삼성전자 네트워크사업부 기업연계 PJT</td>
-    <td>2025.01.07&nbsp;–&nbsp;2025.12.18</td>
+    <td>2025.01&nbsp;–&nbsp;2025.12</td>
   </tr>
   <tr>
     <td><b>HMG 소프티어 부트캠프 4기</b></td>
     <td>Backend</td>
-    <td>2024.07.01&nbsp;–&nbsp;2024.08.28</td>
+    <td>2024.07&nbsp;–&nbsp;2024.08</td>
   </tr>
   <tr>
     <td><b>한양대학교 ERICA 정보보호연구실</b></td>
